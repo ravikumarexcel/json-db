@@ -1,0 +1,15 @@
+Online JWT Generator
+https://www.javainuse.com/jwtgenerator
+
+Payload to be generated
+{
+    "Issuer": "usermanagement",
+    "Issued At": "2023-11-17T09:11:25.522Z",
+    "Expiration": "2023-11-27T09:11:25.522Z",
+    "Username": "Sincere@april.biz",
+    "Role": "Admin"
+}
+
+Algorithm	HS256	
+Key			usermanagement-secret-key
+
