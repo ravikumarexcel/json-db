@@ -1,5 +1,6 @@
 # json-db
 run command 
+npm install
 npm run start
 
 
